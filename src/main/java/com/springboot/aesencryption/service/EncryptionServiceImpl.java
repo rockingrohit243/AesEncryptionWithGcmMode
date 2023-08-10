@@ -1,4 +1,4 @@
-package com.springboot.aesencryption;
+package com.springboot.aesencryption.service;
 
 import com.springboot.aesencryption.pojo.DecodedDataRequest;
 import com.springboot.aesencryption.pojo.DecodedDataResponse;
